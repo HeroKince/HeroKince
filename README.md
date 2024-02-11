@@ -1,7 +1,7 @@
 ### 金宇Kince
 
-- 🔭 Android研发工程师
-- 🌱 专注于应用出海业务
+- 🔭 应用研发工程师
+- 🌱 产品出海创业者
 
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroKince&layout=compact" />
